@@ -1,0 +1,53 @@
+html{
+  background-color: white;
+  color: hotpink;
+}
+
+body{
+  margin: 0;
+  font-family: Arial,sans-serif;
+  font-size: 1rem;
+}
+
+  h1{
+    background-color: green;
+    color: lightpink;
+    font-weight: normal;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-family: 'Henny Penny', cursive;
+    text-align: center;
+    margin: 0;
+  }
+
+  nav a{
+    display: inline-block;
+    background-color: lightgreen;
+    color: hotpink;
+    padding: 0.5em 0.75em;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+  }
+
+  nav{
+    text-align: center;
+  }
+
+  header{
+    background-color: green;
+
+  }
+
+nav li{
+  display: inline;
+}
+
+p{
+  font-style: normal;
+  font-size: 1rem;
+  text-align:left; /* left, center, right, justify*/
+  font-family: Georgia,serif;
+  color: darkgreen;
+}
