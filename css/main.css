@@ -21,6 +21,33 @@ body{
     padding-top: 40px;
   }
 
+  h2{
+    color: #392584;
+    font-weight: normal;
+    font-size: 2rem;
+    font-family: 'Henny Penny', cursive;
+    text-align: left;
+    line-height: 1;
+  }
+
+  h3{
+    color: #392584;
+    font-weight: normal;
+    font-size: 1.5rem;
+    font-family: 'Henny Penny', cursive;
+    text-align: left;
+    line-height: 1;
+
+  }
+
+  h4{
+    color: darkgreen;
+    font-family: Georgia, sans serif;
+    font-style: italic;
+    font-weight: normal;
+
+  }
+
 a:hover{
   color: lightpink;
 }
@@ -62,4 +89,74 @@ p{
 
 .ed{
   font-weight: bold;
+}
+
+.jbr{
+  font-weight: bold;
+}
+
+.quote{
+  fontweight: bold;
+  text-align: center;
+
+  display: block;
+  font-size: 2em;
+}
+
+blockquote{
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+
+.eb{
+  font-family: Georgia, serif;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  padding: 0.5em;
+
+}
+
+main{
+  padding: 0.5em;
+}
+
+figure{
+  border: 5px;
+  border-style: solid;
+  border-radius: 7px;
+  padding: 1em;
+  margin: 1em;
+  color: lightblue;
+  background-color:#e5ef93;
+
+}
+
+img{
+  width: 100%;
+}
+
+figcaption{
+  color: #392584;
+  text-align: center;
+  font-style: italic;
+  font-family: Georgia, sans serif;
+}
+
+.imgtxt{
+  text-color: blue;
+}
+
+dl{
+  font-family: Georgia, serif;
+  margin
+}
+
+dt{
+  font-weight: bold;
+}
+
+hr{
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
