@@ -127,7 +127,7 @@ figure{
   border-radius: 7px;
   padding: 1em;
   margin: 1em;
-  color: lightblue;
+  color: coral;
   background-color:#e5ef93;
 }
 
@@ -150,7 +150,7 @@ figcaption{
 
 dl{
   font-family: Georgia, serif;
-  margin
+  color: darkgreen;
 }
 
 dt{
@@ -160,4 +160,29 @@ dt{
 hr{
   margin-top: 1em;
   margin-bottom: 1em;
+}
+
+.ni{
+  font-size: 1rem;
+  font-family: 'Henny Penny', cursive;
+  text-align: left;
+  line-height: 1;
+}
+
+footer{
+  background-color: green;
+  color: lightpink;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1;
+  font-family: Georgia, sans serif;
+  text-align: center;
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+a{
+  color:coral;
 }
