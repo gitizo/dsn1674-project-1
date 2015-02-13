@@ -98,7 +98,7 @@ p{
 }
 
 .quote{
-  fontweight: bold;
+  font-weight: bold;
   text-align: center;
 
   display: block;
